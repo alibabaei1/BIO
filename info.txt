@@ -1,4 +1,5 @@
 TAG	DATUM	VOR	NACH	EIER
+aug
 mo	16	16		
 di	17	15	19	2
 mi	18	21	22	2
@@ -9,6 +10,7 @@ di	26	20	24	5
 mi	27	24	27	3.5
 do	28	27		
 fr	31	8	19	1.5
+sep
 mo	1	15	25	1
 di	2	13	14	1.5
 mi	3	13	15	1
